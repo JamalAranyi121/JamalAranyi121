@@ -24,5 +24,5 @@ I enjoy turning data into insights and building predictive models using Python a
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamalAranyi121E&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamalAranyi121&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalAranyi121&layout=compact&theme=tokyonight)

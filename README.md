@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jamal 👋
 
-<!--
-**JamalAranyi121/JamalAranyi121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Analyst & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I enjoy turning data into insights and building predictive models using Python and Azure ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 📊 Interested in Data Analytics & Machine Learning
+- 🎯 Currently learning AI/ML (Coursera)
+- 🏢 Looking for Data Analyst / Apprentice roles
+- 🌍 Based in the UK
+
+---
+
+## 🛠️ Tech Stack
+- Python, Pandas, NumPy
+- SQL
+- Azure Machine Learning
+- Power BI
+- Excel
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamalAranyi121E&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalAranyi121&layout=compact&theme=tokyonight)
